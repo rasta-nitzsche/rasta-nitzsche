@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Boulaouad Adel. I am a fourth year CS student at Esi.
+- 👋 Hi, I’m Boulaouad Adel. I am a 4th year student of Computer Science at Esi.
 - 👀 I’m interested in IA and DATA
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me https://www.linkedin.com/in/adel-boulaouad-928642210/
