@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Boulaouad Adel. I am a 4th year student of Computer Science at Esi.
+- 👋 Hi, I’m Boulaouad Adel. I am a 5th year student at the Higher School of Computer Science and Master Graduate in AI at Université Laval (Quebec, CA).
 - 👀 I’m interested in IA and DATA.
-- 🌱 I’m currently learning NLP.
+- 🌱 I’m currently sharpening my skills in MLOps and ML Engineering.
 - 📫 How to reach me https://www.linkedin.com/in/adel-boulaouad/ .
 
 <!---
